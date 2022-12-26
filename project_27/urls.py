@@ -22,3 +22,9 @@ urlpatterns = [
     path('insert_webpage/',insert_webpage,name='insert_webpage'),
     path('insert_AccessRecords/',insert_AccessRecords,name='insert_AccessRecords'),
 ]
+
+
+
+admin.site.site_header='AKEPATI NARASA REDDY'
+admin.site.site_title='74DE4'
+admin.site.index_title='ANR'
